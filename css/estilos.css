@@ -54,10 +54,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-
 .header {
     height: 60vh !important;
-    background: url(/img/guitarra.jpg) no-repeat center;
+    background: url(../img/guitarra.jpg) no-repeat center;
     background-size: cover;
 }
 
